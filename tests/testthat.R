@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/reference/test_package.html#special-files
 
 library(testthat)
-library(airlinestats2)
+library(airlinestats)
 
-test_check("airlinestats2")
+test_check("airlinestats")
